@@ -1,0 +1,37 @@
+@font-face {
+  font-family: 'TachyonW00-Regular';
+  src: url('TachyonW00-Regular.svg#TachyonW00-Regular') format('svg'),
+       url('TachyonW00-Regular.ttf') format('truetype'),
+       url('TachyonW00-Regular.woff') format('woff'),
+       url('TachyonW00-Regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'TachyonW00-Thin';
+  src: url('TachyonW00-Thin.svg#TachyonW00-Thin') format('svg'),
+       url('TachyonW00-Thin.ttf') format('truetype'),
+       url('TachyonW00-Thin.woff') format('woff')
+       url('TachyonW00-Thin.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'TachyonW00-Hairline';
+  src: url('TachyonW00-Hairline.svg#TachyonW00-Hairline') format('svg'),
+       url('TachyonW00-Hairline.ttf') format('truetype'),
+       url('TachyonW00-Hairline.woff') format('woff')
+       url('TachyonW00-Hairline.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'TachyonW00-Light';
+  src: url('TachyonW00-Light.svg#TachyonW00-Light') format('svg'),
+       url('TachyonW00-Light.ttf') format('truetype'),
+       url('TachyonW00-Light.woff2') format('woff2')
+       url('TachyonW00-Light.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+

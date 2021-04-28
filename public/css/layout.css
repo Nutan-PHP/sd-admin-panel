@@ -1,0 +1,75 @@
+body {
+    background: #f8f8f8 !important;
+}
+.btn.button-primary {
+    background-color: #5b7954;
+    border-color: #455a40;
+    color: #ffffff;
+    transition: all ease-out 0.5s;
+}
+a {
+    color: #000;
+}
+a:hover {
+    color: #5b7954;
+}
+.btn-primary {
+    background-color: #5b7954;
+    border-color: #566d50;
+}
+.btn-primary:hover,
+.btn-primary:not(:disabled):not(.disabled).active,
+.btn-primary:not(:disabled):not(.disabled):active,
+.show > .btn-primary.dropdown-toggle {
+    color: #475f42;
+    background-color: #fff;
+    border-color: #566d50;
+}
+.form-control:focus {
+    border-color: #5b7954;
+}
+.pull-right {
+    float: right !important;
+}
+.login-box,
+.register-box {
+    width: 400px;
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 0 0 0;
+    min-height: 760px;
+}
+#SDLogo {
+    width: 250px;
+    padding: 25px;
+}
+.content-wrapper {
+    background-color: #f8f8f8;
+}
+[class*="sidebar-dark-"] {
+    background: #fff;
+}
+.card-primary:not(.card-outline) > .card-header {
+    background-color: #5b7954;
+}
+
+[class*="sidebar-dark-"] .sidebar a {
+    color: #000;
+}
+[class*="sidebar-dark-"] .sidebar a:hover {
+    color: #5b7954;
+}
+.nav-pills .nav-link:not(.active):hover {
+    color: #5b7954;
+}
+[class*="sidebar-dark-"] .nav-sidebar > .nav-item:hover > .nav-link {
+    background-color: #5b7954;
+    color: #fff;
+}
+.nav-sidebar > li.active {
+    background-color: #5b7954;
+    color: #fff !important;
+}
+[class*="sidebar-dark-"] .sidebar li.active > a {
+    color: #fff;
+}
